@@ -4,3 +4,5 @@
  Repositório testanto a partir do pc Desktop
 
  Linha adicionada diretamente no site
+
+Testando a instalação do GitHub desktop no Linux... 
